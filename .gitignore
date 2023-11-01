@@ -1,0 +1,6 @@
+.nox
+__pycache__
+.env
+requirements
+pyproject.toml
+noxfile.py
